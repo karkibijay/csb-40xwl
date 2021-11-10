@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://karkibijay.github.io/csb-40xwl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://karkibijay.github.io/csb-40xwl/static/js/main.d85081cb.chunk.js",
+    "main.js.map": "https://karkibijay.github.io/csb-40xwl/static/js/main.d85081cb.chunk.js.map",
+    "runtime-main.js": "https://karkibijay.github.io/csb-40xwl/static/js/runtime-main.5fc3a5f9.js",
+    "runtime-main.js.map": "https://karkibijay.github.io/csb-40xwl/static/js/runtime-main.5fc3a5f9.js.map",
+    "static/js/2.23032e1c.chunk.js": "https://karkibijay.github.io/csb-40xwl/static/js/2.23032e1c.chunk.js",
+    "static/js/2.23032e1c.chunk.js.map": "https://karkibijay.github.io/csb-40xwl/static/js/2.23032e1c.chunk.js.map",
+    "index.html": "https://karkibijay.github.io/csb-40xwl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://karkibijay.github.io/csb-40xwl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.23032e1c.chunk.js.LICENSE.txt": "https://karkibijay.github.io/csb-40xwl/static/js/2.23032e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fc3a5f9.js",
+    "static/js/2.23032e1c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d85081cb.chunk.js"
+  ]
+}
